@@ -1,0 +1,6 @@
+{
+  "name": "LicitIA - Smart Procure",
+  "description": "Plataforma SaaS inteligente para compras públicas, licitações e contratações sob a Nova Lei de Licitações (Lei nº 14.133/2021).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

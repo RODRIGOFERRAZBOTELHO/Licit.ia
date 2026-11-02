@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "usr_master",
+      "email": "master@licitia.com",
+      "name": "Administrador Master",
+      "role": "admin",
+      "has_active_subscription": true,
+      "subscription_date": "2026-01-01",
+      "cnpj": "00.394.460/0058-87",
+      "razao_social": "Ministério da Gestão e da Inovação em Serviços Públicos",
+      "orgao_publico": "Secretaria de Gestão e Inovação (SEGES)",
+      "cep": "70040-010",
+      "logradouro": "Esplanada dos Ministérios",
+      "numero": "Bloco C",
+      "complemento": "3º Andar",
+      "bairro": "Zona Cívico-Administrativa",
+      "cidade": "Brasília",
+      "uf": "DF",
+      "telefone": "(61) 2020-1000",
+      "representante_legal": "Dr. Carlos Eduardo Mendonça",
+      "cargo_representante": "Agente de Contratação / Presidente da CPL"
+    },
+    {
+      "id": "usr_demo",
+      "email": "usuario@exemplo.com",
+      "name": "Usuário Demonstração",
+      "role": "admin",
+      "has_active_subscription": true,
+      "cnpj": "12.345.678/0001-90",
+      "razao_social": "Prefeitura Municipal de Exemplo",
+      "orgao_publico": "Secretaria Municipal de Administração",
+      "cep": "01310-100",
+      "logradouro": "Avenida Paulista",
+      "numero": "1000",
+      "complemento": "Sala 402",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "telefone": "(11) 3333-4444",
+      "representante_legal": "Mariana Silva Santos",
+      "cargo_representante": "Pregoeira Oficial",
+      "subscription_date": "2026-11-02T14:36:45.705Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_init_1",
+      "userId": "usr_master",
+      "title": "ETP - Aquisição de Estações de Trabalho e Notebooks",
+      "moduleKey": "etp",
+      "moduleName": "Estudo Técnico Preliminar (ETP)",
+      "profileMode": "admin",
+      "content": "# ESTUDO TÉCNICO PRELIMINAR (ETP)\n\n**Órgão Requisitante:** Secretaria de Gestão e Inovação (SEGES)\n**Processo Administrativo nº:** 19973.004521/2026-11\n**Fundamentação Legal:** Lei Federal nº 14.133/2021, Art. 18 e Instrução Normativa SEGES/ME nº 58/2022.\n\n---\n\n### 1. DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO\nA presente contratação tem por escopo a modernização do parque computacional das unidades finalísticas e do corpo técnico do órgão, visando suprir a obsolescência tecnológica dos equipamentos vigentes adquiridos no exercício de 2019, cujos contratos de garantia e suporte expiraram.\n\n### 2. PREVISÃO NO PLANO DE CONTRATAÇÕES ANUAL (PCA)\nO objeto desta demanda encontra-se alinhado às diretrizes estratégicas e devidamente contemplado no Plano de Contratações Anual (PCA) do exercício corrente, sob o Item ID nº PCA-2026-TI-089.\n\n### 3. REQUISITOS DA CONTRATAÇÃO\n- Processadores de alta performance (mínimo 12 núcleos);\n- 32 GB de memória RAM DDR5;\n- Armazenamento veloz SSD NVMe PCIe 4.0 de no mínimo 1 TB;\n- Garantia on-site de 36 meses com atendimento de chamados em até 24 horas úteis.\n\n### 4. ESTIMATIVAS DE QUANTIDADES E VALOR REFERENCIAL\nEstimou-se a aquisição de 150 unidades de estações de trabalho e 60 notebooks corporativos, perfazendo um valor total referencial estimado em R$ 1.485.000,00 (um milhão, quatrocentos e oitenta e cinco mil reais), com base em cotações e atas do Painel de Preços.\n\n### 5. CONCLUSÃO QUANTO À VIABILIDADE\nDiante dos estudos técnicos, conclui-se pela total VIABILIDADE técnica e orçamentária para o prosseguimento do processo licitatório na modalidade Pregão Eletrônico, sob o critério de julgamento de Menor Preço por Item.",
+      "parameters": {
+        "objeto": "Aquisição de Estações de Trabalho e Notebooks",
+        "valor": "1485000"
+      },
+      "attachments": [],
+      "createdAt": "2026-11-02T14:27:37.500Z",
+      "updatedAt": "2026-11-02T14:27:37.501Z"
+    }
+  ]
+}
